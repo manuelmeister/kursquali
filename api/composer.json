@@ -1,0 +1,11 @@
+{
+    "name": "kursquali/api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Manuel Meister",
+            "email": "news.manuelsworld@gmail.com"
+        }
+    ],
+    "require": {}
+}
