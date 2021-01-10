@@ -9,5 +9,9 @@
       "kursquali": "Kursquali"
     }
   },
-  "message": "hello i18n !!"
+  "views": {
+    "home": {
+      "welcome": "Willkommen auf Kursquali"
+    }
+  }
 }
