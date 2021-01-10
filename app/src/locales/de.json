@@ -1,3 +1,13 @@
 {
+  "components": {
+    "appNavigation": {
+      "observations": "Beobachtungen",
+      "groups": "Gruppen",
+      "program": "Programm",
+      "participants": "Teilnehmende",
+      "qualification": "Auswertungen",
+      "kursquali": "Kursquali"
+    }
+  },
   "message": "hello i18n !!"
 }
