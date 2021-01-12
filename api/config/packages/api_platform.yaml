@@ -1,4 +1,8 @@
 api_platform:
+    title: 'Kursquali API'
+    description: 'Access to your course camps'
+    version: '0.0.1'
+    show_webby: false
     formats:
         jsonhal:  ['application/hal+json']
         html:     ['text/html']
