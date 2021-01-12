@@ -1,11 +1,11 @@
 <template>
   <v-app>
-    <app-navigation/>
+    <app-navigation />
     <v-main class="grey lighten-3">
       <v-container>
         <v-row>
           <v-col>
-            <router-view/>
+            <router-view />
           </v-col>
         </v-row>
       </v-container>
@@ -13,11 +13,10 @@
   </v-app>
 </template>
 
-<script lang="ts">
-import Vue from "vue";
+<script>
 import AppNavigation from "@/components/AppNavigation.vue";
 
-export default Vue.extend({
+export default {
   name: "App",
 
   components: {
@@ -27,5 +26,5 @@ export default Vue.extend({
   data: () => ({
     //
   })
-});
+};
 </script>
